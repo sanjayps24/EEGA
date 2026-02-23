@@ -1,3 +1,5 @@
+### 🚨 EEGA is an AI powered Emergency Guidance Assistant which guides and helps the user on emergency situations like medical, fire, police and other incidents.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
